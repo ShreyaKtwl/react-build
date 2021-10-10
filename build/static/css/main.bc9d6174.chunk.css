@@ -1,0 +1,2 @@
+*,html{margin:0;padding:0;box-sizing:border-box}a{text-decoration:none;color:inherit}.rotate{-webkit-animation:rotation 3s linear infinite;animation:rotation 3s linear infinite}@-webkit-keyframes rotation{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes rotation{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(359deg);transform:rotate(359deg)}}.toast-container{background-color:#4e342e!important}
+/*# sourceMappingURL=main.bc9d6174.chunk.css.map */
